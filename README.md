@@ -1,16 +1,5 @@
-# simple_login_ui
+# Simple Login UI
 
-A new Flutter project.
+Simple Login UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Alıntısı](https://github.com/BilalSevinc16/Simple_Login_UI/assets/146417248/8ee07de4-e26b-436f-b02e-547829045e40)
